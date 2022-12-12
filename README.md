@@ -26,12 +26,12 @@ Tietoliikennelabrassa IoT-reitittimeen yhdistäminen joka lähettää kiihtyvyys
 - Mitattujen tietojen hakua tietokannasta
 - Ohjelmistolisensseistä ja pilvipalveluista
 
-##Viikko 5
+## Viikko 5
 - K-means algoritmin opetusta ja toteutusta pythonilla
 
-##Viikko 6
+## Viikko 6
 - Opetetun algoritmin opetus kiihtyvyysanturille
 - Confusio matrixin laskemista ja opettamista datalle.
 
-##Viikko 
+## Viikko 7
 - 7 Projektin posteri ja projektin päätös
