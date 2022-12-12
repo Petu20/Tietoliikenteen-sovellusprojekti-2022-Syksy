@@ -1,5 +1,5 @@
 # Tietoliikenteen-sovellusprojekti-2022-Syksy
-Toisen vuoden arduino projekti syksy 2022.
+Toisen vuoden arduino projekti jossa laitettiin kiihtyvyysanturilla dataa MySQL-tietokantaan ja opeteltiin K-means algoritmin opetusta ja toteutusta pythonilla.
 
 ![alt text](https://i.imgur.com/M2SjL8A.png)
 
