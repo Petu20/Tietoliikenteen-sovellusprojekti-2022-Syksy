@@ -1,7 +1,7 @@
 # Tietoliikenteen-sovellusprojekti-2022-Syksy
 Toisen vuoden arduino projekti jossa laitettiin kiihtyvyysanturilla dataa MySQL-tietokantaan ja opeteltiin K-means algoritmin opetusta ja toteutusta pythonilla.
 
-![alt text](https://i.imgur.com/M2SjL8A.png)
+![alt text](https://i.imgur.com/cY1mEXK.png)
 
 # Projekti
 Tietoliikennelabrassa IoT-reitittimeen yhdistäminen joka lähettää kiihtyvyysanturin tiedot MySQL-tietokantaan.
