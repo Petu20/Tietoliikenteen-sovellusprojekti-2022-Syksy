@@ -14,7 +14,7 @@ Tietoliikennelabrassa IoT-reitittimeen yhdistäminen joka lähettää kiihtyvyys
 
 ## Viikko 2
 - Kiihtyvyysanturille arduino koodia
-- Kiihtyvyysantuin datan saaminen tietokantaan
+- Kiihtyvyysantuin datan saaminen tietokantaan lähetintä ja vastaanotinta hyödyntäen
 
 ## Viikko 3
 - Rajapinnoista
